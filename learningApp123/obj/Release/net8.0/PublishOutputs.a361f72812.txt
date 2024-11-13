@@ -1,0 +1,7 @@
+C:\Users\azureuser123\workspace\tmp1\learningApp123\bin\Publish\learningApp123.exe
+C:\Users\azureuser123\workspace\tmp1\learningApp123\bin\Publish\appsettings.Development.json
+C:\Users\azureuser123\workspace\tmp1\learningApp123\bin\Publish\appsettings.json
+C:\Users\azureuser123\workspace\tmp1\learningApp123\bin\Publish\learningApp123.dll
+C:\Users\azureuser123\workspace\tmp1\learningApp123\bin\Publish\learningApp123.deps.json
+C:\Users\azureuser123\workspace\tmp1\learningApp123\bin\Publish\learningApp123.runtimeconfig.json
+C:\Users\azureuser123\workspace\tmp1\learningApp123\bin\Publish\learningApp123.pdb
